@@ -1,7 +1,12 @@
+# def checknumber(num):
+#     if num%2==0:
+#         return "True";
+#     else:
+#         return "False";
+    
+# x=checknumber(7)
+# print(x)    
+
 count=0
-i=1
-while i<=N:
-            if(i%2==0):
-                count+=1
-                    i+=1
-        print(count)
+for i in range(100):
+x=CheckNumber
